@@ -1,4 +1,4 @@
 Archive
 =======
 
-Record of old projects
+A variety of projects I worked on. Provided files range from code snippets to full source code.
