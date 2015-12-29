@@ -1,0 +1,27 @@
+<Action Type="0" Data="-1.0">
+	<Key Id="0x57" Once="0" />
+</Action>
+
+<Action Type="1" Data="-1.0">
+	<Key Id="0x41" Once="0" />
+</Action>
+
+<Action Type="2" Data="1.0">
+	<Key Id="0x53" Once="0" />
+</Action>
+
+<Action Type="3" Data="1.0">
+	<Key Id="0x44" Once="0" />
+</Action>
+
+<Action Type="4" Data="0.75">
+	<Key Id="0x02" Once="0" />
+</Action>
+
+<Action Type="5" Data="17.5">
+	<Key Id="0x10" Once="0" />
+</Action>
+
+<Action Type="6" Data="0.0">
+	<Key Id="0x54" Once="1" />
+</Action>
